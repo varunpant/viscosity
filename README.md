@@ -2,6 +2,10 @@
 =================
 Viscosity is yet another fun experiment  ,It tries to mimic fluid particles moving in a high density ether
 
+
+![Screen Shot](https://github.com/varunpant/viscosity/blob/master/viscosity.png?raw=true "Screen Shot")
+
+
 Blog
 ----
 
